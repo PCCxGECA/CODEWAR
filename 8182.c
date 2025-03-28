@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <string.h>
-
 void Hint() {
     char filename[] = "final_stage";  
     filename[0] = 'T';  
@@ -10,9 +8,10 @@ void Hint() {
 int main() {
     int a = 10, b = 2, c = 0;
 
-    printf("Divide: %d\n", a / c);  
+    printf("Divide: %d\n", a / c); 
+    printf("Check Div(hint)ide error");
 
-    char *ptr = (char*)malloc(10);  
+    char *ptr = (char*)malloc(10);
 
     Hint();
     return 0;
