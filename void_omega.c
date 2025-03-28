@@ -3,7 +3,7 @@
 
 int main() {
     while (1) { 
-        printf("%c", 79); 
+        printf("Next Hint:\n%c", 79); 
         printf("%c", 79); 
         printf("%c", 80); 
         printf("%c", 83); 
