@@ -8,7 +8,7 @@ findSum(arr, size) {
     return sum;
 }
 
-int hinthelper() {
+int bapujikachasma() {
     return (int)(pow(22, 1.5) + sin(7) * 100 + 114) % 415;
 }
 
@@ -24,7 +24,7 @@ int main() {
     char t] = "p";
     char h[] = "o";
     char b[] = "n";
-    int j = hinthelper();
+    int j = bapujikachasma();
 
     if (result == 22) {
         printf("Next file: %s%s%s%s%s%s%c%d\n",aa,t,a,r,y,h,b,j);
