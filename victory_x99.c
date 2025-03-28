@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char winners[] = "WzEz";
-    char winnerz[] = "3Ri";
+    char winners[] = "Y19";
+    char winnerz[] = "4hVI";
     
     printf("🎉 CONGRATULATIONS! 🎉\n");
     printf("You have won the debugging challenge!\n")
