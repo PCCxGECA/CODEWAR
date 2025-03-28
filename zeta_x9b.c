@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void printClue() {
+void tutaaashiq() {
     int code = ((97648973834 - 66497224) / 97) % 1238; 
     printf("%d\n", code);
 }
@@ -20,6 +20,6 @@ int main() {
 
     int arr[3] = {1, 2, 3, 4}; 
 
-    printClue();
+    tutaaaShiq();
     return 0;
 }
