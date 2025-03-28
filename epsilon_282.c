@@ -21,7 +21,7 @@ int main() {
     if (input_shift == (1+3+5+7+6)) {  
         decrypt_caesar(link);
         
-        printf("Revealed link: https://rentry.co/%s\n", link);  
+        printf("https://rentry.co/%s\n", link);  
     } else {
         printf("Incorrect. Access denied.\n");  
     }
